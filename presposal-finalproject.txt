@@ -1,0 +1,15 @@
+# Preproposal
+
+## What idea(s) do you have for your final project?
+
+An interactive riddler game.
+Snake but where bombs are dropped in which you must avoid.
+A food and drink recepie site where you can enter what you are in the mood for and you will be redirected to a list of recipies for that ingredient.
+
+## If you plan to collaborate with one or two classmates, what are their names?
+
+Nathaniel Hughes
+
+## Do you have any questions of your own?
+
+No questions.

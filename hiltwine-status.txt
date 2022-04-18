@@ -1,0 +1,29 @@
+# Status Report
+
+#### Your name
+
+Thomas Hiltwine
+
+#### Your section leader's name
+
+Hongzheng Wang
+
+#### Project title
+
+War Snake
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+The base snake game is finished. There is a functioning score board that tracks the orbs consumed.
+
+#### What have you not done for your project yet?
+
+We need to develop the mines that will deduct points when consumed. We need to create a means of having mines more mines appear as the players score gets higher.
+
+#### What problems, if any, have you encountered?
+
+We need the mines to appear randomly.
